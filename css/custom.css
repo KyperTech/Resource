@@ -1,1 +1,35 @@
 /* custom.css */
+
+#container {
+	background: #ffffff;
+	}
+	body{
+		background: url(images/MainBackground.png);
+	}
+	.product_cell_label{
+		background: rgb(87, 171, 52);
+		color: white;
+	}
+	#shoppingcartcheckout{
+		background-color: rgb(87, 171, 52);
+		color: white;
+	}
+	#login{
+		background-color: rgb(87, 171, 52);
+	}
+	#login a{
+		background-color: rgb(87, 171, 52);
+		color: white;
+	}
+	#shopingcarteditcart{
+		background-color: rgb(73, 119, 185);
+		color: white;
+	}
+	#sidebar .clickbar{
+		background-color: rgb(40, 207, 222);
+		color: white;
+		border: none;
+	}
+	#searchentry{
+		border-bottom: 5px solid rgb(40, 207, 222);
+	}
